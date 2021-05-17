@@ -53,6 +53,6 @@ The purpose of this project is to create an online holiday management program. T
 * Import database "elms.sql" (available inside project/database folder).
 * Open Your browser and type "localhost/emls".
 
-*Admin Login Details: Username: admin Password: admin
-*Employee Login Details: Username: user@user.com Password: user
+* Admin Login Details: Username: admin Password: admin
+* Employee Login Details: Username: user@user.com Password: user
 
