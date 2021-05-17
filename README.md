@@ -22,6 +22,10 @@ The purpose of this project is to create an online holiday management program. T
 *	Admin can also manage the leave application(approve and not approve).
 *	Admin Logout
 
+![Admin Demo](admin_demo1.gif)
+![Admin Demo](admin_demo2.gif)
+![Admin Demo](admin_demo3.gif)
+
 ### Employee Feautures
 *	Employee login
 *	Employee can Update Profile
