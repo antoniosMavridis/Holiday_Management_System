@@ -31,6 +31,9 @@ The purpose of this project is to create an online holiday management program. T
 *	Update Password
 *	Employee Logout
 
+![User Demo](user_demo1.gif)
+![User Demo](user_demo2.gif)
+
 ### Software Requirements
 * XAMPP server
 * Language Used: 
