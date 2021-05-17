@@ -44,3 +44,15 @@ The purpose of this project is to create an online holiday management program. T
   * Front End: HTML5, AJAX, JQUERY, JAVASCRIPT, BOOTSTRAP
   * Server Language: PHP 7
   * Back End: MySQL
+
+
+### How to Run Project
+* Download Project in Your root directory (xampp/htdocs).
+* Open phpMyAdmin.
+* Create Blank Database "elms".
+* Import database "elms.sql" (available inside project/database folder).
+* Open Your browser and type "localhost/emls".
+
+Admin Login Details: Username: admin Password: admin
+Employee Login Details: Username: user@user.com Password: user
+
